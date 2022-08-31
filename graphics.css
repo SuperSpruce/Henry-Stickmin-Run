@@ -1,0 +1,12 @@
+body {
+    font-family: helvetica, arial, sans-serif;
+    font-size: 16px;
+    margin: 2em;
+    color: #eeeeee;
+    background-color: #222222;
+  }
+
+abp.bigText {
+    font-size: 160px;
+    font-weight: bold;
+}
